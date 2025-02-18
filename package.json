@@ -1,0 +1,49 @@
+{
+  "name": "@owle/synapse",
+  "version": "0.0.0",
+  "description": "Synapse by Jamil Services",
+  "bin": {
+    "synapse": "./cli.js"
+  },
+  "homepage": "https://littleowle.github.io",
+  "author": "Jamil Services <jamilservices@gmail.com> (https://github.com/jamilservices)",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js",
+    "preinstall": "node ./check-node-version.js"
+  },
+  "files": [
+    "AUTHORS",
+    "GOVERNANCE.md",
+    "MAINTAINERS.md",
+    "README.md",
+    "docs",
+    "assets"
+  ],
+  "engines": {
+    "node": ">=23.0.0 <24.0.0"
+  },
+  "license": "AGPL-3.0-or-later",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/LittleOwle"
+    }
+  ],
+  "devDependencies": {
+    "chai": "latest",
+    "mocha": "latest"
+  },
+  "keywords": [
+    "jamilservicos",
+    "jamilservices",
+    "commonjs",
+    "workspace",
+    "synapse",
+    "neurons",
+    "codex",
+    "owle",
+    "little",
+    "littleowle"
+  ]
+}

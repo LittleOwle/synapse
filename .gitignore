@@ -9,6 +9,11 @@
 !/assets/sponsor.png
 !/assets/telegram.png
 
+!/package.json
+!/check-node-version.js
+!/cli.js
+!/interpreter.js
+
 !/docs/
 !/docs/.gitignore
 
@@ -16,3 +21,19 @@
 !/MAINTAINERS.md
 !/README.md
 !/LICENSE
+!/AUTHORS
+
+!/codex/
+!/codex/.gitignore
+
+!/neurons/
+!/neurons/.gitignore
+
+!/plugins/
+!/plugins/.gitignore
+
+!/templates/
+!/templates/.gitignore
+
+!/tests/
+!/tests/.gitignore
