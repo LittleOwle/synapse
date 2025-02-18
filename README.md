@@ -2,6 +2,8 @@
 
 [![Github Sponsor](assets%2Fsponsor.png)](https://github.com/sponsors/LittleOwle)
 
+![telegram channel](assets%2Fimage832.png)
+
 ## [README (pt-BR)](docs%2Fpt-br%2FREADME.md)
 ### Licença
 #### Este projeto está licenciado sob a [GNU Affero General Public License v3.0 ou posterior](LICENSE).  
