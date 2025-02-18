@@ -2,7 +2,7 @@
 
 [![Github Sponsor](assets%2Fsponsor.png)](https://github.com/sponsors/LittleOwle)
 
-![telegram channel](assets%2Fimage832.png)
+![telegram channel](assets%2Ftelegram.png)
 
 ## [README (pt-BR)](docs%2Fpt-br%2FREADME.md)
 ### Licença
