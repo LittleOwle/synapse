@@ -1,0 +1,8 @@
+{
+ "plugins": "./plugins",
+ "workRoot": "./workspaces",
+ "workSpaces": [
+  "apps",
+  "packages"
+ ]
+}

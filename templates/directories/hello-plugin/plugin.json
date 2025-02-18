@@ -1,0 +1,15 @@
+{
+  "name": "hello-plugin",
+  "_name_comment": "optional",
+  "version": "1.0.0",
+  "_version_comment": "optional",
+  "description": "plugin desciption",
+  "_description_comment": "optional",
+  "main": {
+    "_main_comment": "required",
+    "file": "index.js",
+    "_file_comment": "main.file requires the extension '.js' or 'cjs', and is required to be commonjs",
+    "method": "hello",
+    "_method_comment": "main.method is only applicable if you are exporting an object and not a function."
+  }
+}
