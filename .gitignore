@@ -1,0 +1,17 @@
+*
+
+!/.gitignore
+
+!/.github/
+!/.github/FUNDING.yml
+
+!/assets/
+!/assets/sponsor.png
+
+!/docs/
+!/docs/.gitignore
+
+!/GOVERNANCE.md
+!/MAINTAINERS.md
+!/README.md
+!/LICENSE
