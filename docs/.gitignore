@@ -6,4 +6,14 @@
 !/en-us/README.md
 
 !/pt-br/
+!/pt-br/cli.md
+!/pt-br/codex.md
+!/pt-br/plugins.md
+!/pt-br/neurons.md
+!/pt-br/interpreter.md
+!/pt-br/configurationFile.md
 !/pt-br/README.md
+
+!/pt-br/codex/
+!/pt-br/codex/*.md
+
