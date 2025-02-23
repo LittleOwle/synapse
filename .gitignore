@@ -3,6 +3,8 @@
 !/.gitignore
 
 !/.github/
+!/.github/workflows/
+!/.github/workflows/tests.yml
 !/.github/FUNDING.yml
 
 !/assets/
