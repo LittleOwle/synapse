@@ -1,3 +1,5 @@
 *
 
 !/.gitignore
+!/mock.js
+!/*.test.js
