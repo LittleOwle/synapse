@@ -2,3 +2,5 @@
 
 !/.gitignore
 !/index.js
+!/n*/
+!/n*/*.js

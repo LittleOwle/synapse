@@ -9,7 +9,7 @@ const loadNeuron = (data = {})  => {
     let base = __dirname;
     try {
         if (!codex.types.isString(path)) {
-            const errorMessage = `${codex.errors({error: 1, id: 'neurons'})} : needs path`;
+            const errorMessage = `${codex.errors({error: 1, id: 'neurons'})} : needs path, received ${typeof path}`;
             throw new Error(errorMessage);
         }
         if (codex.types.isString(data.base)) base = data.base;
