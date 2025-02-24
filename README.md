@@ -1,5 +1,7 @@
 # [Synapse](https://github.com/LittleOwle/synapse)
 
+[![Node.js tests](https://github.com/LittleOwle/synapse/actions/workflows/tests.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/LittleOwle/synapse/actions/workflows/tests.yml)
+
 [![Github Sponsor](assets%2Fsponsor.png)](https://github.com/sponsors/LittleOwle)
 
 ![telegram channel](assets%2Ftelegram.png)
